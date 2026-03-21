@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "デビルじゃないもん",
   "base_artist": "HIMEHINA",
-  "createdAt": "2026-01-13T20:10:03.531973Z",
+  "createdAt": "2026-03-21T17:19:06.387444Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,6 +99,22 @@
       "artist": "DECO*27 feat. PinocchioP",
       "has_synced": true,
       "path": "select/12_デビルじゃないもん_(Devil_ja_nai)_DECO_27_feat._PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Not) A Devil  デビルじゃないもん",
+      "artist": "DECO*27 x PinocchioP feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/13_(Not)_A_Devil_デビルじゃないもん_DECO_27_x_PinocchioP_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "デビルじゃないもん - (Not) A Devil",
+      "artist": "DECO*27, PinocchioP",
+      "has_synced": true,
+      "path": "select/14_デビルじゃないもん_-_(Not)_A_Devil_DECO_27,_PinocchioP.lrc"
     },
     {
       "id": "petitlyrics_1",
